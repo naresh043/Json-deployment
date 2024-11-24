@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Naresh Bodhas",
-      "image": "https://static.toiimg.com/thumb/msid-87470911,width-1070,height-580,imgsize-32922,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "image": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732430712/20_fth9sx.jpg",
       "courseName": "HTML",
       "feedback": "A good HTML course should be beginner-friendly, hands-on, and cover foundational topics like tags, forms, and semantic HTML. Real-world projects and integration with CSS/JavaScript make it more practical. Courses with interactive elements and advanced topics like accessibility are highly recommended.",
       "rating": "4.5/5",

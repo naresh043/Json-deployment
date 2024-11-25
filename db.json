@@ -107,5 +107,554 @@
       "suggestions": "Speed up the pace for advanced learners.",
       "reviewType": "Positive"
     }
-  ]
+  ],
+  "coursesdata":[
+      {
+        "id": 1,
+        "courseName": "HTML",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/1_s0k4q2.jpg",
+        "category": "Web Development",
+        "duration": "2 weeks",
+        "keyTakeaways": [
+          "Understand HTML structure",
+          "Learn to create web pages",
+          "Semantic HTML best practices"
+        ],
+        "preRequirements": [
+          "Basic computer skills",
+          "Familiarity with web browsing"
+        ],
+        "description": "A comprehensive course on HTML to get you started with web development.",
+        "courseLevel": "Beginner",
+        "instructor": "John Doe",
+        "rating": 4.8,
+        "reviewsCount": 120,
+        "price": "Free",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/html/default.asp"
+      },
+      {
+        "id": 2,
+        "courseName": "CSS",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/2_ab8kag.jpg",
+        "category": "Web Development",
+        "duration": "3 weeks",
+        "keyTakeaways": [
+          "Learn CSS styling and layouts",
+          "Master responsive design",
+          "Understand CSS animations"
+        ],
+        "preRequirements": [
+          "Basic HTML knowledge",
+          "Familiarity with web development"
+        ],
+        "description": "Learn how to style and layout web pages using CSS.",
+        "courseLevel": "Beginner",
+        "instructor": "Jane Smith",
+        "rating": 4.7,
+        "reviewsCount": 95,
+        "price": "Free",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/css/default.asp"
+      },
+      {
+        "id": 3,
+        "courseName": "JavaScript",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/5_ykcgiw.jpg",
+        "category": "Web Development",
+        "duration": "4 weeks",
+        "keyTakeaways": [
+          "Understand JavaScript fundamentals",
+          "Work with DOM manipulation",
+          "Learn modern JavaScript ES6+ features"
+        ],
+        "preRequirements": [
+          "HTML and CSS knowledge",
+          "Basic programming concepts"
+        ],
+        "description": "Dive into JavaScript and build interactive web applications.",
+        "courseLevel": "Intermediate",
+        "instructor": "Emily Johnson",
+        "rating": 4.9,
+        "reviewsCount": 150,
+        "price": "$50",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/js/default.asp"
+      },
+      {
+        "id": 4,
+        "courseName": "Python",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/3_mnxwoi.jpg",
+        "category": "Programming",
+        "duration": "5 weeks",
+        "keyTakeaways": [
+          "Learn Python syntax",
+          "Understand data structures",
+          "Work with file handling and APIs"
+        ],
+        "preRequirements": [
+          "No prior programming experience required"
+        ],
+        "description": "Start your journey with Python, a versatile and powerful programming language.",
+        "courseLevel": "Beginner",
+        "instructor": "Michael Brown",
+        "rating": 4.8,
+        "reviewsCount": 200,
+        "price": "$30",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/python/default.asp"
+      },
+      {
+        "id": 5,
+        "courseName": "Java",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/4_nin5ar.jpg",
+        "category": "Programming",
+        "duration": "6 weeks",
+        "keyTakeaways": [
+          "Understand Java OOP concepts",
+          "Build Java applications",
+          "Work with collections and streams"
+        ],
+        "preRequirements": [
+          "Basic programming knowledge",
+          "Familiarity with any language is helpful"
+        ],
+        "description": "Learn Java programming from the ground up.",
+        "courseLevel": "Intermediate",
+        "instructor": "Sarah Wilson",
+        "rating": 4.6,
+        "reviewsCount": 110,
+        "price": "$70",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/java/default.asp"
+      },
+      {
+        "id": 6,
+        "courseName": "C#",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/6_b9hee3.jpg",
+        "category": "Programming",
+        "duration": "5 weeks",
+        "keyTakeaways": [
+          "Understand C# syntax",
+          "Develop desktop applications",
+          "Learn C# with .NET Framework"
+        ],
+        "preRequirements": [
+          "Basic programming knowledge",
+          "Interest in Windows development"
+        ],
+        "description": "Explore the C# programming language and its ecosystem.",
+        "courseLevel": "Intermediate",
+        "instructor": "Chris Evans",
+        "rating": 4.7,
+        "reviewsCount": 140,
+        "price": "$60",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/cs/index.php"
+      },
+      {
+        "id": 7,
+        "courseName": "C++",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/7_wp23wv.jpg",
+        "category": "Programming",
+        "duration": "6 weeks",
+        "keyTakeaways": [
+          "Learn C++ fundamentals",
+          "Understand pointers and memory management",
+          "Build console applications"
+        ],
+        "preRequirements": [
+          "Basic programming experience",
+          "Familiarity with logic building"
+        ],
+        "description": "Master the fundamentals of C++ and become proficient in programming.",
+        "courseLevel": "Intermediate",
+        "instructor": "Laura Adams",
+        "rating": 4.6,
+        "reviewsCount": 120,
+        "price": "$50",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/cpp/default.asp"
+      },
+      {
+        "id": 8,
+        "courseName": "Ruby",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/9_fpzden.jpg",
+        "category": "Programming",
+        "duration": "4 weeks",
+        "keyTakeaways": [
+          "Understand Ruby syntax",
+          "Work with Ruby on Rails",
+          "Learn Ruby for scripting"
+        ],
+        "preRequirements": [
+          "Basic programming knowledge"
+        ],
+        "description": "Learn the Ruby language and its applications in development.",
+        "courseLevel": "Beginner",
+        "instructor": "Mark Stone",
+        "rating": 4.5,
+        "reviewsCount": 80,
+        "price": "Free",
+        "completionCertificate": true,
+        "courseLink": "https://www.geeksforgeeks.org/ruby-tutorial/"
+      },
+      {
+        "id": 9,
+        "courseName": "React",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/12_duv08z.jpg",
+        "category": "Web Development",
+        "duration": "5 weeks",
+        "keyTakeaways": [
+          "Learn React components and props",
+          "Understand React state management",
+          "Work with React Router"
+        ],
+        "preRequirements": [
+          "JavaScript and ES6 knowledge",
+          "HTML and CSS familiarity"
+        ],
+        "description": "Become a front-end developer with React.",
+        "courseLevel": "Advanced",
+        "instructor": "Alex Morgan",
+        "rating": 4.9,
+        "reviewsCount": 180,
+        "price": "$100",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/react/default.asp"
+      },
+      {
+        "id": 10,
+        "courseName": "Bootstrap",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/13_cgw0op.webp",
+        "category": "Web Development",
+        "duration": "3 weeks",
+        "keyTakeaways": [
+          "Understand Bootstrap grid system",
+          "Learn to build responsive layouts",
+          "Customize themes with Bootstrap"
+        ],
+        "preRequirements": [
+          "HTML and CSS knowledge"
+        ],
+        "description": "Learn how to quickly design websites using Bootstrap.",
+        "courseLevel": "Beginner",
+        "instructor": "Rachel Green",
+        "rating": 4.7,
+        "reviewsCount": 90,
+        "price": "Free",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/bootstrap/bootstrap_ver.asp"
+      },
+      {
+        "id": 11,
+        "courseName": "MySQL",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/14_vmpcuk.jpg",
+        "category": "Database",
+        "duration": "4 weeks",
+        "keyTakeaways": [
+          "Understand database fundamentals",
+          "Learn to write SQL queries",
+          "Manage and manipulate databases"
+        ],
+        "preRequirements": [
+          "Basic computer knowledge"
+        ],
+        "description": "Learn MySQL to manage databases and query data effectively.",
+        "courseLevel": "Beginner",
+        "instructor": "Sophia Carter",
+        "rating": 4.8,
+        "reviewsCount": 140,
+        "price": "$40",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/mysql/default.asp"
+      },
+      {
+        "id": 12,
+        "courseName": "jQuery",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/15_gneale.png",
+        "category": "Web Development",
+        "duration": "3 weeks",
+        "keyTakeaways": [
+          "Simplify JavaScript with jQuery",
+          "Learn DOM manipulation",
+          "Work with jQuery plugins"
+        ],
+        "preRequirements": [
+          "Basic HTML, CSS, and JavaScript knowledge"
+        ],
+        "description": "Master jQuery to simplify web development tasks.",
+        "courseLevel": "Intermediate",
+        "instructor": "Ethan Miller",
+        "rating": 4.5,
+        "reviewsCount": 75,
+        "price": "Free",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/jquery/default.asp"
+      },
+      {
+        "id": 13,
+        "courseName": "Django",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/16_xgmzbb.png",
+        "category": "Web Development",
+        "duration": "6 weeks",
+        "keyTakeaways": [
+          "Learn Django framework",
+          "Develop dynamic web applications",
+          "Work with models and views"
+        ],
+        "preRequirements": [
+          "Python knowledge",
+          "Basic web development understanding"
+        ],
+        "description": "Build scalable web applications with the Django framework.",
+        "courseLevel": "Intermediate",
+        "instructor": "Liam Davis",
+        "rating": 4.7,
+        "reviewsCount": 130,
+        "price": "$70",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/django/index.php"
+      },
+      {
+        "id": 14,
+        "courseName": "NumPy",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/17_xeyxq4.png",
+        "category": "Data Science",
+        "duration": "3 weeks",
+        "keyTakeaways": [
+          "Learn NumPy array operations",
+          "Work with multidimensional arrays",
+          "Use NumPy for scientific computing"
+        ],
+        "preRequirements": [
+          "Basic Python knowledge",
+          "Understanding of mathematics"
+        ],
+        "description": "Explore NumPy for data manipulation and numerical computation.",
+        "courseLevel": "Beginner",
+        "instructor": "Olivia Johnson",
+        "rating": 4.6,
+        "reviewsCount": 100,
+        "price": "$30",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/python/numpy/default.asp"
+      },
+      {
+        "id": 15,
+        "courseName": "Node.js",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503437/20_-_Copy_kxioss.png",
+        "category": "Web Development",
+        "duration": "5 weeks",
+        "keyTakeaways": [
+          "Learn server-side JavaScript",
+          "Understand event-driven architecture",
+          "Build RESTful APIs"
+        ],
+        "preRequirements": [
+          "JavaScript knowledge",
+          "Understanding of asynchronous programming"
+        ],
+        "description": "Master Node.js to build scalable, high-performance web servers.",
+        "courseLevel": "Advanced",
+        "instructor": "Noah Williams",
+        "rating": 4.8,
+        "reviewsCount": 160,
+        "price": "$80",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/nodejs/default.asp"
+      },
+      {
+        "id": 16,
+        "courseName": "PHP",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/8_her1ag.jpg",
+        "category": "Web Development",
+        "duration": "4 weeks",
+        "keyTakeaways": [
+          "Learn PHP syntax and basics",
+          "Understand server-side scripting",
+          "Work with forms and databases"
+        ],
+        "preRequirements": [
+          "Basic HTML knowledge",
+          "Familiarity with web development concepts"
+        ],
+        "description": "A complete guide to PHP for building dynamic and interactive websites.",
+        "courseLevel": "Beginner to Intermediate",
+        "instructor": "William Scott",
+        "rating": 4.7,
+        "reviewsCount": 110,
+        "price": "$50",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/php/default.asp"
+      },
+      {
+        "id": 17,
+        "courseName": "R",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/11_yzrsko.jpg",
+        "category": "Data Science",
+        "duration": "4 weeks",
+        "keyTakeaways": [
+          "Learn R programming basics",
+          "Analyze and visualize data",
+          "Understand statistical modeling"
+        ],
+        "preRequirements": [
+          "Basic programming knowledge",
+          "Familiarity with statistics"
+        ],
+        "description": "Master the R programming language to perform data analysis and create visualizations.",
+        "courseLevel": "Beginner to Intermediate",
+        "instructor": "Emily Thompson",
+        "rating": 4.8,
+        "reviewsCount": 95,
+        "price": "$60",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/r/default.asp"
+      },
+      {
+        "id": 18,
+        "courseName": "Git",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514210/16_tdsm5q.jpg",
+        "category": "Version Control",
+        "duration": "2 weeks",
+        "keyTakeaways": [
+          "Understand version control concepts",
+          "Learn Git commands and workflows",
+          "Collaborate using Git and GitHub"
+        ],
+        "preRequirements": [
+          "Basic computer skills",
+          "Familiarity with command-line tools (optional)"
+        ],
+        "description": "A hands-on course to master Git and version control for efficient collaboration and code management.",
+        "courseLevel": "Beginner",
+        "instructor": "Michael Brown",
+        "rating": 4.9,
+        "reviewsCount": 150,
+        "price": "Free",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/git/default.asp"
+      },
+      {
+        "id": 19,
+        "courseName": "Angular",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/17_zowhn1.jpg",
+        "category": "Web Development",
+        "duration": "6 weeks",
+        "keyTakeaways": [
+          "Master Angular framework basics",
+          "Build dynamic single-page applications",
+          "Understand components, directives, and services"
+        ],
+        "preRequirements": [
+          "Basic HTML, CSS, and JavaScript knowledge",
+          "Familiarity with TypeScript (optional)"
+        ],
+        "description": "Learn to build robust and dynamic web applications with Angular, one of the most popular frameworks for modern web development.",
+        "courseLevel": "Intermediate",
+        "instructor": "Sophia White",
+        "rating": 4.8,
+        "reviewsCount": 135,
+        "price": "$80",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/angular/default.asp"
+      },
+      {
+        "id": 20,
+        "courseName": "ASP.NET",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/asp_g9tg8k.jpg",
+        "category": "Web Development",
+        "duration": "6 weeks",
+        "keyTakeaways": [
+          "Learn to build web applications using ASP.NET",
+          "Understand the MVC architecture",
+          "Develop secure and scalable web solutions"
+        ],
+        "preRequirements": [
+          "Basic knowledge of C#",
+          "Understanding of HTML and CSS"
+        ],
+        "description": "A complete guide to ASP.NET for building secure, scalable, and high-performance web applications.",
+        "courseLevel": "Intermediate",
+        "instructor": "James Wilson",
+        "rating": 4.7,
+        "reviewsCount": 125,
+        "price": "$90",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/asp/default.asp"
+      },
+      {
+        "id": 21,
+        "courseName": "AWS",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/aws_vpboom.jpg",
+        "category": "Cloud Computing",
+        "duration": "8 weeks",
+        "keyTakeaways": [
+          "Understand the fundamentals of cloud computing",
+          "Learn core AWS services like EC2, S3, and RDS",
+          "Deploy, manage, and scale applications on AWS"
+        ],
+        "preRequirements": [
+          "Basic IT knowledge",
+          "Understanding of networking concepts (optional)"
+        ],
+        "description": "Learn the essentials of Amazon Web Services (AWS) to build, deploy, and manage cloud-based applications.",
+        "courseLevel": "Beginner to Intermediate",
+        "instructor": "Ava Martinez",
+        "rating": 4.9,
+        "reviewsCount": 200,
+        "price": "$100",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/aws/index.php"
+      },
+      {
+        "id": 22,
+        "courseName": "TypeScript",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/ts_yvdvj9.png",
+        "category": "Programming",
+        "duration": "4 weeks",
+        "keyTakeaways": [
+          "Learn TypeScript syntax and features",
+          "Understand static typing and interfaces",
+          "Build robust and scalable JavaScript applications"
+        ],
+        "preRequirements": [
+          "Basic knowledge of JavaScript",
+          "Familiarity with programming concepts"
+        ],
+        "description": "Master TypeScript to enhance JavaScript development with strong typing and better code structure.",
+        "courseLevel": "Intermediate",
+        "instructor": "Liam Anderson",
+        "rating": 4.8,
+        "reviewsCount": 150,
+        "price": "$50",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/typescript/index.php"
+      },
+      {
+        "id": 23,
+        "courseName": "Vue.js",
+        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/vue_bwbh4k.jpg",
+        "category": "Web Development",
+        "duration": "5 weeks",
+        "keyTakeaways": [
+          "Understand Vue.js fundamentals and core concepts",
+          "Learn to build interactive and dynamic web interfaces",
+          "Master component-based development and state management"
+        ],
+        "preRequirements": [
+          "Basic knowledge of HTML, CSS, and JavaScript",
+          "Familiarity with ES6 features (optional)"
+        ],
+        "description": "A comprehensive course to learn Vue.js and build efficient, modern, and dynamic web applications.",
+        "courseLevel": "Intermediate",
+        "instructor": "Isabella Garcia",
+        "rating": 4.7,
+        "reviewsCount": 140,
+        "price": "$70",
+        "completionCertificate": true,
+        "courseLink": "https://www.w3schools.com/vue/index.php"
+      }
+    ]
 }

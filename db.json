@@ -108,553 +108,1299 @@
       "reviewType": "Positive"
     }
   ],
-  "coursesdata":[
-      {
-        "id": 1,
-        "courseName": "HTML",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/1_s0k4q2.jpg",
-        "category": "Web Development",
-        "duration": "2 weeks",
-        "keyTakeaways": [
-          "Understand HTML structure",
-          "Learn to create web pages",
-          "Semantic HTML best practices"
-        ],
-        "preRequirements": [
-          "Basic computer skills",
-          "Familiarity with web browsing"
-        ],
-        "description": "A comprehensive course on HTML to get you started with web development.",
-        "courseLevel": "Beginner",
-        "instructor": "John Doe",
-        "rating": 4.8,
-        "reviewsCount": 120,
-        "price": "Free",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/html/default.asp"
-      },
-      {
-        "id": 2,
-        "courseName": "CSS",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/2_ab8kag.jpg",
-        "category": "Web Development",
-        "duration": "3 weeks",
-        "keyTakeaways": [
-          "Learn CSS styling and layouts",
-          "Master responsive design",
-          "Understand CSS animations"
-        ],
-        "preRequirements": [
-          "Basic HTML knowledge",
-          "Familiarity with web development"
-        ],
-        "description": "Learn how to style and layout web pages using CSS.",
-        "courseLevel": "Beginner",
-        "instructor": "Jane Smith",
-        "rating": 4.7,
-        "reviewsCount": 95,
-        "price": "Free",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/css/default.asp"
-      },
-      {
-        "id": 3,
-        "courseName": "JavaScript",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/5_ykcgiw.jpg",
-        "category": "Web Development",
-        "duration": "4 weeks",
-        "keyTakeaways": [
-          "Understand JavaScript fundamentals",
-          "Work with DOM manipulation",
-          "Learn modern JavaScript ES6+ features"
-        ],
-        "preRequirements": [
-          "HTML and CSS knowledge",
-          "Basic programming concepts"
-        ],
-        "description": "Dive into JavaScript and build interactive web applications.",
-        "courseLevel": "Intermediate",
-        "instructor": "Emily Johnson",
-        "rating": 4.9,
-        "reviewsCount": 150,
-        "price": "$50",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/js/default.asp"
-      },
-      {
-        "id": 4,
-        "courseName": "Python",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/3_mnxwoi.jpg",
-        "category": "Programming",
-        "duration": "5 weeks",
-        "keyTakeaways": [
-          "Learn Python syntax",
-          "Understand data structures",
-          "Work with file handling and APIs"
-        ],
-        "preRequirements": [
-          "No prior programming experience required"
-        ],
-        "description": "Start your journey with Python, a versatile and powerful programming language.",
-        "courseLevel": "Beginner",
-        "instructor": "Michael Brown",
-        "rating": 4.8,
-        "reviewsCount": 200,
-        "price": "$30",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/python/default.asp"
-      },
-      {
-        "id": 5,
-        "courseName": "Java",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/4_nin5ar.jpg",
-        "category": "Programming",
-        "duration": "6 weeks",
-        "keyTakeaways": [
-          "Understand Java OOP concepts",
-          "Build Java applications",
-          "Work with collections and streams"
-        ],
-        "preRequirements": [
-          "Basic programming knowledge",
-          "Familiarity with any language is helpful"
-        ],
-        "description": "Learn Java programming from the ground up.",
-        "courseLevel": "Intermediate",
-        "instructor": "Sarah Wilson",
-        "rating": 4.6,
-        "reviewsCount": 110,
-        "price": "$70",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/java/default.asp"
-      },
-      {
-        "id": 6,
-        "courseName": "C#",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/6_b9hee3.jpg",
-        "category": "Programming",
-        "duration": "5 weeks",
-        "keyTakeaways": [
-          "Understand C# syntax",
-          "Develop desktop applications",
-          "Learn C# with .NET Framework"
-        ],
-        "preRequirements": [
-          "Basic programming knowledge",
-          "Interest in Windows development"
-        ],
-        "description": "Explore the C# programming language and its ecosystem.",
-        "courseLevel": "Intermediate",
-        "instructor": "Chris Evans",
-        "rating": 4.7,
-        "reviewsCount": 140,
-        "price": "$60",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/cs/index.php"
-      },
-      {
-        "id": 7,
-        "courseName": "C++",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/7_wp23wv.jpg",
-        "category": "Programming",
-        "duration": "6 weeks",
-        "keyTakeaways": [
-          "Learn C++ fundamentals",
-          "Understand pointers and memory management",
-          "Build console applications"
-        ],
-        "preRequirements": [
-          "Basic programming experience",
-          "Familiarity with logic building"
-        ],
-        "description": "Master the fundamentals of C++ and become proficient in programming.",
-        "courseLevel": "Intermediate",
-        "instructor": "Laura Adams",
-        "rating": 4.6,
-        "reviewsCount": 120,
-        "price": "$50",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/cpp/default.asp"
-      },
-      {
-        "id": 8,
-        "courseName": "Ruby",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/9_fpzden.jpg",
-        "category": "Programming",
-        "duration": "4 weeks",
-        "keyTakeaways": [
-          "Understand Ruby syntax",
-          "Work with Ruby on Rails",
-          "Learn Ruby for scripting"
-        ],
-        "preRequirements": [
-          "Basic programming knowledge"
-        ],
-        "description": "Learn the Ruby language and its applications in development.",
-        "courseLevel": "Beginner",
-        "instructor": "Mark Stone",
-        "rating": 4.5,
-        "reviewsCount": 80,
-        "price": "Free",
-        "completionCertificate": true,
-        "courseLink": "https://www.geeksforgeeks.org/ruby-tutorial/"
-      },
-      {
-        "id": 9,
-        "courseName": "React",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/12_duv08z.jpg",
-        "category": "Web Development",
-        "duration": "5 weeks",
-        "keyTakeaways": [
-          "Learn React components and props",
-          "Understand React state management",
-          "Work with React Router"
-        ],
-        "preRequirements": [
-          "JavaScript and ES6 knowledge",
-          "HTML and CSS familiarity"
-        ],
-        "description": "Become a front-end developer with React.",
-        "courseLevel": "Advanced",
-        "instructor": "Alex Morgan",
-        "rating": 4.9,
-        "reviewsCount": 180,
-        "price": "$100",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/react/default.asp"
-      },
-      {
-        "id": 10,
-        "courseName": "Bootstrap",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/13_cgw0op.webp",
-        "category": "Web Development",
-        "duration": "3 weeks",
-        "keyTakeaways": [
-          "Understand Bootstrap grid system",
-          "Learn to build responsive layouts",
-          "Customize themes with Bootstrap"
-        ],
-        "preRequirements": [
-          "HTML and CSS knowledge"
-        ],
-        "description": "Learn how to quickly design websites using Bootstrap.",
-        "courseLevel": "Beginner",
-        "instructor": "Rachel Green",
-        "rating": 4.7,
-        "reviewsCount": 90,
-        "price": "Free",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/bootstrap/bootstrap_ver.asp"
-      },
-      {
-        "id": 11,
-        "courseName": "MySQL",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/14_vmpcuk.jpg",
-        "category": "Database",
-        "duration": "4 weeks",
-        "keyTakeaways": [
-          "Understand database fundamentals",
-          "Learn to write SQL queries",
-          "Manage and manipulate databases"
-        ],
-        "preRequirements": [
-          "Basic computer knowledge"
-        ],
-        "description": "Learn MySQL to manage databases and query data effectively.",
-        "courseLevel": "Beginner",
-        "instructor": "Sophia Carter",
-        "rating": 4.8,
-        "reviewsCount": 140,
-        "price": "$40",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/mysql/default.asp"
-      },
-      {
-        "id": 12,
-        "courseName": "jQuery",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/15_gneale.png",
-        "category": "Web Development",
-        "duration": "3 weeks",
-        "keyTakeaways": [
-          "Simplify JavaScript with jQuery",
-          "Learn DOM manipulation",
-          "Work with jQuery plugins"
-        ],
-        "preRequirements": [
-          "Basic HTML, CSS, and JavaScript knowledge"
-        ],
-        "description": "Master jQuery to simplify web development tasks.",
-        "courseLevel": "Intermediate",
-        "instructor": "Ethan Miller",
-        "rating": 4.5,
-        "reviewsCount": 75,
-        "price": "Free",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/jquery/default.asp"
-      },
-      {
-        "id": 13,
-        "courseName": "Django",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/16_xgmzbb.png",
-        "category": "Web Development",
-        "duration": "6 weeks",
-        "keyTakeaways": [
-          "Learn Django framework",
-          "Develop dynamic web applications",
-          "Work with models and views"
-        ],
-        "preRequirements": [
-          "Python knowledge",
-          "Basic web development understanding"
-        ],
-        "description": "Build scalable web applications with the Django framework.",
-        "courseLevel": "Intermediate",
-        "instructor": "Liam Davis",
-        "rating": 4.7,
-        "reviewsCount": 130,
-        "price": "$70",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/django/index.php"
-      },
-      {
-        "id": 14,
-        "courseName": "NumPy",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/17_xeyxq4.png",
-        "category": "Data Science",
-        "duration": "3 weeks",
-        "keyTakeaways": [
-          "Learn NumPy array operations",
-          "Work with multidimensional arrays",
-          "Use NumPy for scientific computing"
-        ],
-        "preRequirements": [
-          "Basic Python knowledge",
-          "Understanding of mathematics"
-        ],
-        "description": "Explore NumPy for data manipulation and numerical computation.",
-        "courseLevel": "Beginner",
-        "instructor": "Olivia Johnson",
-        "rating": 4.6,
-        "reviewsCount": 100,
-        "price": "$30",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/python/numpy/default.asp"
-      },
-      {
-        "id": 15,
-        "courseName": "Node.js",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503437/20_-_Copy_kxioss.png",
-        "category": "Web Development",
-        "duration": "5 weeks",
-        "keyTakeaways": [
-          "Learn server-side JavaScript",
-          "Understand event-driven architecture",
-          "Build RESTful APIs"
-        ],
-        "preRequirements": [
-          "JavaScript knowledge",
-          "Understanding of asynchronous programming"
-        ],
-        "description": "Master Node.js to build scalable, high-performance web servers.",
-        "courseLevel": "Advanced",
-        "instructor": "Noah Williams",
-        "rating": 4.8,
-        "reviewsCount": 160,
-        "price": "$80",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/nodejs/default.asp"
-      },
-      {
-        "id": 16,
-        "courseName": "PHP",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/8_her1ag.jpg",
-        "category": "Web Development",
-        "duration": "4 weeks",
-        "keyTakeaways": [
-          "Learn PHP syntax and basics",
-          "Understand server-side scripting",
-          "Work with forms and databases"
-        ],
-        "preRequirements": [
-          "Basic HTML knowledge",
-          "Familiarity with web development concepts"
-        ],
-        "description": "A complete guide to PHP for building dynamic and interactive websites.",
-        "courseLevel": "Beginner to Intermediate",
-        "instructor": "William Scott",
-        "rating": 4.7,
-        "reviewsCount": 110,
-        "price": "$50",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/php/default.asp"
-      },
-      {
-        "id": 17,
-        "courseName": "R",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/11_yzrsko.jpg",
-        "category": "Data Science",
-        "duration": "4 weeks",
-        "keyTakeaways": [
-          "Learn R programming basics",
-          "Analyze and visualize data",
-          "Understand statistical modeling"
-        ],
-        "preRequirements": [
-          "Basic programming knowledge",
-          "Familiarity with statistics"
-        ],
-        "description": "Master the R programming language to perform data analysis and create visualizations.",
-        "courseLevel": "Beginner to Intermediate",
-        "instructor": "Emily Thompson",
-        "rating": 4.8,
-        "reviewsCount": 95,
-        "price": "$60",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/r/default.asp"
-      },
-      {
-        "id": 18,
-        "courseName": "Git",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514210/16_tdsm5q.jpg",
-        "category": "Version Control",
-        "duration": "2 weeks",
-        "keyTakeaways": [
-          "Understand version control concepts",
-          "Learn Git commands and workflows",
-          "Collaborate using Git and GitHub"
-        ],
-        "preRequirements": [
-          "Basic computer skills",
-          "Familiarity with command-line tools (optional)"
-        ],
-        "description": "A hands-on course to master Git and version control for efficient collaboration and code management.",
-        "courseLevel": "Beginner",
-        "instructor": "Michael Brown",
-        "rating": 4.9,
-        "reviewsCount": 150,
-        "price": "Free",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/git/default.asp"
-      },
-      {
-        "id": 19,
-        "courseName": "Angular",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/17_zowhn1.jpg",
-        "category": "Web Development",
-        "duration": "6 weeks",
-        "keyTakeaways": [
-          "Master Angular framework basics",
-          "Build dynamic single-page applications",
-          "Understand components, directives, and services"
-        ],
-        "preRequirements": [
-          "Basic HTML, CSS, and JavaScript knowledge",
-          "Familiarity with TypeScript (optional)"
-        ],
-        "description": "Learn to build robust and dynamic web applications with Angular, one of the most popular frameworks for modern web development.",
-        "courseLevel": "Intermediate",
-        "instructor": "Sophia White",
-        "rating": 4.8,
-        "reviewsCount": 135,
-        "price": "$80",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/angular/default.asp"
-      },
-      {
-        "id": 20,
-        "courseName": "ASP.NET",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/asp_g9tg8k.jpg",
-        "category": "Web Development",
-        "duration": "6 weeks",
-        "keyTakeaways": [
-          "Learn to build web applications using ASP.NET",
-          "Understand the MVC architecture",
-          "Develop secure and scalable web solutions"
-        ],
-        "preRequirements": [
-          "Basic knowledge of C#",
-          "Understanding of HTML and CSS"
-        ],
-        "description": "A complete guide to ASP.NET for building secure, scalable, and high-performance web applications.",
-        "courseLevel": "Intermediate",
-        "instructor": "James Wilson",
-        "rating": 4.7,
-        "reviewsCount": 125,
-        "price": "$90",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/asp/default.asp"
-      },
-      {
-        "id": 21,
-        "courseName": "AWS",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/aws_vpboom.jpg",
-        "category": "Cloud Computing",
-        "duration": "8 weeks",
-        "keyTakeaways": [
-          "Understand the fundamentals of cloud computing",
-          "Learn core AWS services like EC2, S3, and RDS",
-          "Deploy, manage, and scale applications on AWS"
-        ],
-        "preRequirements": [
-          "Basic IT knowledge",
-          "Understanding of networking concepts (optional)"
-        ],
-        "description": "Learn the essentials of Amazon Web Services (AWS) to build, deploy, and manage cloud-based applications.",
-        "courseLevel": "Beginner to Intermediate",
-        "instructor": "Ava Martinez",
-        "rating": 4.9,
-        "reviewsCount": 200,
-        "price": "$100",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/aws/index.php"
-      },
-      {
-        "id": 22,
-        "courseName": "TypeScript",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/ts_yvdvj9.png",
-        "category": "Programming",
-        "duration": "4 weeks",
-        "keyTakeaways": [
-          "Learn TypeScript syntax and features",
-          "Understand static typing and interfaces",
-          "Build robust and scalable JavaScript applications"
-        ],
-        "preRequirements": [
-          "Basic knowledge of JavaScript",
-          "Familiarity with programming concepts"
-        ],
-        "description": "Master TypeScript to enhance JavaScript development with strong typing and better code structure.",
-        "courseLevel": "Intermediate",
-        "instructor": "Liam Anderson",
-        "rating": 4.8,
-        "reviewsCount": 150,
-        "price": "$50",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/typescript/index.php"
-      },
-      {
-        "id": 23,
-        "courseName": "Vue.js",
-        "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/vue_bwbh4k.jpg",
-        "category": "Web Development",
-        "duration": "5 weeks",
-        "keyTakeaways": [
-          "Understand Vue.js fundamentals and core concepts",
-          "Learn to build interactive and dynamic web interfaces",
-          "Master component-based development and state management"
-        ],
-        "preRequirements": [
-          "Basic knowledge of HTML, CSS, and JavaScript",
-          "Familiarity with ES6 features (optional)"
-        ],
-        "description": "A comprehensive course to learn Vue.js and build efficient, modern, and dynamic web applications.",
-        "courseLevel": "Intermediate",
-        "instructor": "Isabella Garcia",
-        "rating": 4.7,
-        "reviewsCount": 140,
-        "price": "$70",
-        "completionCertificate": true,
-        "courseLink": "https://www.w3schools.com/vue/index.php"
-      }
-    ]
+  "coursesdata": [
+    {
+      "id": 1,
+      "courseName": "HTML",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/1_s0k4q2.jpg",
+      "category": "Web Development",
+      "duration": "2 weeks",
+      "keyTakeaways": [
+        "Understand HTML structure",
+        "Learn to create web pages",
+        "Semantic HTML best practices"
+      ],
+      "preRequirements": [
+        "Basic computer skills",
+        "Familiarity with web browsing"
+      ],
+      "description": "A comprehensive course on HTML to get you started with web development.",
+      "courseLevel": "Beginner",
+      "instructor": "John Doe",
+      "rating": 4.8,
+      "reviewsCount": 120,
+      "price": "Free",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/html/default.asp"
+    },
+    {
+      "id": 2,
+      "courseName": "CSS",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/2_ab8kag.jpg",
+      "category": "Web Development",
+      "duration": "3 weeks",
+      "keyTakeaways": [
+        "Learn CSS styling and layouts",
+        "Master responsive design",
+        "Understand CSS animations"
+      ],
+      "preRequirements": [
+        "Basic HTML knowledge",
+        "Familiarity with web development"
+      ],
+      "description": "Learn how to style and layout web pages using CSS.",
+      "courseLevel": "Beginner",
+      "instructor": "Jane Smith",
+      "rating": 4.7,
+      "reviewsCount": 95,
+      "price": "Free",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/css/default.asp"
+    },
+    {
+      "id": 3,
+      "courseName": "JavaScript",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/5_ykcgiw.jpg",
+      "category": "Web Development",
+      "duration": "4 weeks",
+      "keyTakeaways": [
+        "Understand JavaScript fundamentals",
+        "Work with DOM manipulation",
+        "Learn modern JavaScript ES6+ features"
+      ],
+      "preRequirements": [
+        "HTML and CSS knowledge",
+        "Basic programming concepts"
+      ],
+      "description": "Dive into JavaScript and build interactive web applications.",
+      "courseLevel": "Intermediate",
+      "instructor": "Emily Johnson",
+      "rating": 4.9,
+      "reviewsCount": 150,
+      "price": "$50",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/js/default.asp"
+    },
+    {
+      "id": 4,
+      "courseName": "Python",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/3_mnxwoi.jpg",
+      "category": "Programming",
+      "duration": "5 weeks",
+      "keyTakeaways": [
+        "Learn Python syntax",
+        "Understand data structures",
+        "Work with file handling and APIs"
+      ],
+      "preRequirements": ["No prior programming experience required"],
+      "description": "Start your journey with Python, a versatile and powerful programming language.",
+      "courseLevel": "Beginner",
+      "instructor": "Michael Brown",
+      "rating": 4.8,
+      "reviewsCount": 200,
+      "price": "$30",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/python/default.asp"
+    },
+    {
+      "id": 5,
+      "courseName": "Java",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/4_nin5ar.jpg",
+      "category": "Programming",
+      "duration": "6 weeks",
+      "keyTakeaways": [
+        "Understand Java OOP concepts",
+        "Build Java applications",
+        "Work with collections and streams"
+      ],
+      "preRequirements": [
+        "Basic programming knowledge",
+        "Familiarity with any language is helpful"
+      ],
+      "description": "Learn Java programming from the ground up.",
+      "courseLevel": "Intermediate",
+      "instructor": "Sarah Wilson",
+      "rating": 4.6,
+      "reviewsCount": 110,
+      "price": "$70",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/java/default.asp"
+    },
+    {
+      "id": 6,
+      "courseName": "C#",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/6_b9hee3.jpg",
+      "category": "Programming",
+      "duration": "5 weeks",
+      "keyTakeaways": [
+        "Understand C# syntax",
+        "Develop desktop applications",
+        "Learn C# with .NET Framework"
+      ],
+      "preRequirements": [
+        "Basic programming knowledge",
+        "Interest in Windows development"
+      ],
+      "description": "Explore the C# programming language and its ecosystem.",
+      "courseLevel": "Intermediate",
+      "instructor": "Chris Evans",
+      "rating": 4.7,
+      "reviewsCount": 140,
+      "price": "$60",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/cs/index.php"
+    },
+    {
+      "id": 7,
+      "courseName": "C++",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/7_wp23wv.jpg",
+      "category": "Programming",
+      "duration": "6 weeks",
+      "keyTakeaways": [
+        "Learn C++ fundamentals",
+        "Understand pointers and memory management",
+        "Build console applications"
+      ],
+      "preRequirements": [
+        "Basic programming experience",
+        "Familiarity with logic building"
+      ],
+      "description": "Master the fundamentals of C++ and become proficient in programming.",
+      "courseLevel": "Intermediate",
+      "instructor": "Laura Adams",
+      "rating": 4.6,
+      "reviewsCount": 120,
+      "price": "$50",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/cpp/default.asp"
+    },
+    {
+      "id": 8,
+      "courseName": "Ruby",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/9_fpzden.jpg",
+      "category": "Programming",
+      "duration": "4 weeks",
+      "keyTakeaways": [
+        "Understand Ruby syntax",
+        "Work with Ruby on Rails",
+        "Learn Ruby for scripting"
+      ],
+      "preRequirements": ["Basic programming knowledge"],
+      "description": "Learn the Ruby language and its applications in development.",
+      "courseLevel": "Beginner",
+      "instructor": "Mark Stone",
+      "rating": 4.5,
+      "reviewsCount": 80,
+      "price": "Free",
+      "completionCertificate": true,
+      "courseLink": "https://www.geeksforgeeks.org/ruby-tutorial/"
+    },
+    {
+      "id": 9,
+      "courseName": "React",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/12_duv08z.jpg",
+      "category": "Web Development",
+      "duration": "5 weeks",
+      "keyTakeaways": [
+        "Learn React components and props",
+        "Understand React state management",
+        "Work with React Router"
+      ],
+      "preRequirements": [
+        "JavaScript and ES6 knowledge",
+        "HTML and CSS familiarity"
+      ],
+      "description": "Become a front-end developer with React.",
+      "courseLevel": "Advanced",
+      "instructor": "Alex Morgan",
+      "rating": 4.9,
+      "reviewsCount": 180,
+      "price": "$100",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/react/default.asp"
+    },
+    {
+      "id": 10,
+      "courseName": "Bootstrap",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/13_cgw0op.webp",
+      "category": "Web Development",
+      "duration": "3 weeks",
+      "keyTakeaways": [
+        "Understand Bootstrap grid system",
+        "Learn to build responsive layouts",
+        "Customize themes with Bootstrap"
+      ],
+      "preRequirements": ["HTML and CSS knowledge"],
+      "description": "Learn how to quickly design websites using Bootstrap.",
+      "courseLevel": "Beginner",
+      "instructor": "Rachel Green",
+      "rating": 4.7,
+      "reviewsCount": 90,
+      "price": "Free",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/bootstrap/bootstrap_ver.asp"
+    },
+    {
+      "id": 11,
+      "courseName": "MySQL",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/14_vmpcuk.jpg",
+      "category": "Database",
+      "duration": "4 weeks",
+      "keyTakeaways": [
+        "Understand database fundamentals",
+        "Learn to write SQL queries",
+        "Manage and manipulate databases"
+      ],
+      "preRequirements": ["Basic computer knowledge"],
+      "description": "Learn MySQL to manage databases and query data effectively.",
+      "courseLevel": "Beginner",
+      "instructor": "Sophia Carter",
+      "rating": 4.8,
+      "reviewsCount": 140,
+      "price": "$40",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/mysql/default.asp"
+    },
+    {
+      "id": 12,
+      "courseName": "jQuery",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/15_gneale.png",
+      "category": "Web Development",
+      "duration": "3 weeks",
+      "keyTakeaways": [
+        "Simplify JavaScript with jQuery",
+        "Learn DOM manipulation",
+        "Work with jQuery plugins"
+      ],
+      "preRequirements": ["Basic HTML, CSS, and JavaScript knowledge"],
+      "description": "Master jQuery to simplify web development tasks.",
+      "courseLevel": "Intermediate",
+      "instructor": "Ethan Miller",
+      "rating": 4.5,
+      "reviewsCount": 75,
+      "price": "Free",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/jquery/default.asp"
+    },
+    {
+      "id": 13,
+      "courseName": "Django",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/16_xgmzbb.png",
+      "category": "Web Development",
+      "duration": "6 weeks",
+      "keyTakeaways": [
+        "Learn Django framework",
+        "Develop dynamic web applications",
+        "Work with models and views"
+      ],
+      "preRequirements": [
+        "Python knowledge",
+        "Basic web development understanding"
+      ],
+      "description": "Build scalable web applications with the Django framework.",
+      "courseLevel": "Intermediate",
+      "instructor": "Liam Davis",
+      "rating": 4.7,
+      "reviewsCount": 130,
+      "price": "$70",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/django/index.php"
+    },
+    {
+      "id": 14,
+      "courseName": "NumPy",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/17_xeyxq4.png",
+      "category": "Data Science",
+      "duration": "3 weeks",
+      "keyTakeaways": [
+        "Learn NumPy array operations",
+        "Work with multidimensional arrays",
+        "Use NumPy for scientific computing"
+      ],
+      "preRequirements": [
+        "Basic Python knowledge",
+        "Understanding of mathematics"
+      ],
+      "description": "Explore NumPy for data manipulation and numerical computation.",
+      "courseLevel": "Beginner",
+      "instructor": "Olivia Johnson",
+      "rating": 4.6,
+      "reviewsCount": 100,
+      "price": "$30",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/python/numpy/default.asp"
+    },
+    {
+      "id": 15,
+      "courseName": "Node.js",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503437/20_-_Copy_kxioss.png",
+      "category": "Web Development",
+      "duration": "5 weeks",
+      "keyTakeaways": [
+        "Learn server-side JavaScript",
+        "Understand event-driven architecture",
+        "Build RESTful APIs"
+      ],
+      "preRequirements": [
+        "JavaScript knowledge",
+        "Understanding of asynchronous programming"
+      ],
+      "description": "Master Node.js to build scalable, high-performance web servers.",
+      "courseLevel": "Advanced",
+      "instructor": "Noah Williams",
+      "rating": 4.8,
+      "reviewsCount": 160,
+      "price": "$80",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/nodejs/default.asp"
+    },
+    {
+      "id": 16,
+      "courseName": "PHP",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/8_her1ag.jpg",
+      "category": "Web Development",
+      "duration": "4 weeks",
+      "keyTakeaways": [
+        "Learn PHP syntax and basics",
+        "Understand server-side scripting",
+        "Work with forms and databases"
+      ],
+      "preRequirements": [
+        "Basic HTML knowledge",
+        "Familiarity with web development concepts"
+      ],
+      "description": "A complete guide to PHP for building dynamic and interactive websites.",
+      "courseLevel": "Beginner to Intermediate",
+      "instructor": "William Scott",
+      "rating": 4.7,
+      "reviewsCount": 110,
+      "price": "$50",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/php/default.asp"
+    },
+    {
+      "id": 17,
+      "courseName": "R",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/11_yzrsko.jpg",
+      "category": "Data Science",
+      "duration": "4 weeks",
+      "keyTakeaways": [
+        "Learn R programming basics",
+        "Analyze and visualize data",
+        "Understand statistical modeling"
+      ],
+      "preRequirements": [
+        "Basic programming knowledge",
+        "Familiarity with statistics"
+      ],
+      "description": "Master the R programming language to perform data analysis and create visualizations.",
+      "courseLevel": "Beginner to Intermediate",
+      "instructor": "Emily Thompson",
+      "rating": 4.8,
+      "reviewsCount": 95,
+      "price": "$60",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/r/default.asp"
+    },
+    {
+      "id": 18,
+      "courseName": "Git",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514210/16_tdsm5q.jpg",
+      "category": "Version Control",
+      "duration": "2 weeks",
+      "keyTakeaways": [
+        "Understand version control concepts",
+        "Learn Git commands and workflows",
+        "Collaborate using Git and GitHub"
+      ],
+      "preRequirements": [
+        "Basic computer skills",
+        "Familiarity with command-line tools (optional)"
+      ],
+      "description": "A hands-on course to master Git and version control for efficient collaboration and code management.",
+      "courseLevel": "Beginner",
+      "instructor": "Michael Brown",
+      "rating": 4.9,
+      "reviewsCount": 150,
+      "price": "Free",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/git/default.asp"
+    },
+    {
+      "id": 19,
+      "courseName": "Angular",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/17_zowhn1.jpg",
+      "category": "Web Development",
+      "duration": "6 weeks",
+      "keyTakeaways": [
+        "Master Angular framework basics",
+        "Build dynamic single-page applications",
+        "Understand components, directives, and services"
+      ],
+      "preRequirements": [
+        "Basic HTML, CSS, and JavaScript knowledge",
+        "Familiarity with TypeScript (optional)"
+      ],
+      "description": "Learn to build robust and dynamic web applications with Angular, one of the most popular frameworks for modern web development.",
+      "courseLevel": "Intermediate",
+      "instructor": "Sophia White",
+      "rating": 4.8,
+      "reviewsCount": 135,
+      "price": "$80",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/angular/default.asp"
+    },
+    {
+      "id": 20,
+      "courseName": "ASP.NET",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/asp_g9tg8k.jpg",
+      "category": "Web Development",
+      "duration": "6 weeks",
+      "keyTakeaways": [
+        "Learn to build web applications using ASP.NET",
+        "Understand the MVC architecture",
+        "Develop secure and scalable web solutions"
+      ],
+      "preRequirements": [
+        "Basic knowledge of C#",
+        "Understanding of HTML and CSS"
+      ],
+      "description": "A complete guide to ASP.NET for building secure, scalable, and high-performance web applications.",
+      "courseLevel": "Intermediate",
+      "instructor": "James Wilson",
+      "rating": 4.7,
+      "reviewsCount": 125,
+      "price": "$90",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/asp/default.asp"
+    },
+    {
+      "id": 21,
+      "courseName": "AWS",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/aws_vpboom.jpg",
+      "category": "Cloud Computing",
+      "duration": "8 weeks",
+      "keyTakeaways": [
+        "Understand the fundamentals of cloud computing",
+        "Learn core AWS services like EC2, S3, and RDS",
+        "Deploy, manage, and scale applications on AWS"
+      ],
+      "preRequirements": [
+        "Basic IT knowledge",
+        "Understanding of networking concepts (optional)"
+      ],
+      "description": "Learn the essentials of Amazon Web Services (AWS) to build, deploy, and manage cloud-based applications.",
+      "courseLevel": "Beginner to Intermediate",
+      "instructor": "Ava Martinez",
+      "rating": 4.9,
+      "reviewsCount": 200,
+      "price": "$100",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/aws/index.php"
+    },
+    {
+      "id": 22,
+      "courseName": "TypeScript",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/ts_yvdvj9.png",
+      "category": "Programming",
+      "duration": "4 weeks",
+      "keyTakeaways": [
+        "Learn TypeScript syntax and features",
+        "Understand static typing and interfaces",
+        "Build robust and scalable JavaScript applications"
+      ],
+      "preRequirements": [
+        "Basic knowledge of JavaScript",
+        "Familiarity with programming concepts"
+      ],
+      "description": "Master TypeScript to enhance JavaScript development with strong typing and better code structure.",
+      "courseLevel": "Intermediate",
+      "instructor": "Liam Anderson",
+      "rating": 4.8,
+      "reviewsCount": 150,
+      "price": "$50",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/typescript/index.php"
+    },
+    {
+      "id": 23,
+      "courseName": "Vue.js",
+      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/vue_bwbh4k.jpg",
+      "category": "Web Development",
+      "duration": "5 weeks",
+      "keyTakeaways": [
+        "Understand Vue.js fundamentals and core concepts",
+        "Learn to build interactive and dynamic web interfaces",
+        "Master component-based development and state management"
+      ],
+      "preRequirements": [
+        "Basic knowledge of HTML, CSS, and JavaScript",
+        "Familiarity with ES6 features (optional)"
+      ],
+      "description": "A comprehensive course to learn Vue.js and build efficient, modern, and dynamic web applications.",
+      "courseLevel": "Intermediate",
+      "instructor": "Isabella Garcia",
+      "rating": 4.7,
+      "reviewsCount": 140,
+      "price": "$70",
+      "completionCertificate": true,
+      "courseLink": "https://www.w3schools.com/vue/index.php"
+    }
+  ],
+  "roadmapdata": [
+    {
+      "id": 1,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732640395/front_end_nbnoil.png",
+      "coursename": "Frontend Beginner",
+      "category": "Frontend",
+      "level": "Beginner",
+      "description": "Learn the basics of frontend development, including HTML, CSS, and JavaScript.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic computer knowledge",
+      "targetAudience": "Aspiring web developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/frontend?r=frontend-beginner"
+    },
+    {
+      "id": 2,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638444/frontend_h91p8j.jpg",
+      "coursename": "Backend Beginner",
+      "category": "Backend",
+      "level": "Beginner",
+      "description": "Get introduced to backend technologies, including Node.js, Express, and databases.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic programming knowledge",
+      "targetAudience": "Aspiring backend developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "uhttps://roadmap.sh/backend?r=backend-beginnerrl"
+    },
+    {
+      "id": 3,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638443/devops_saolcy.jpg",
+      "coursename": "DevOps Beginner",
+      "category": "DevOps",
+      "level": "Beginner",
+      "description": "Learn the fundamentals of DevOps, including CI/CD pipelines and version control.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic understanding of software development",
+      "targetAudience": "Aspiring DevOps engineers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/devops?r=devops-beginner"
+    },
+    {
+      "id": 4,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732640395/front_end_nbnoil.png",
+      "coursename": "Frontend",
+      "category": "Frontend",
+      "level": "Intermediate",
+      "description": "Enhance your frontend skills with advanced topics in React, CSS, and responsive design.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic knowledge of frontend development",
+      "targetAudience": "Frontend developers looking to advance their skills",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/frontend"
+    },
+    {
+      "id": 5,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638444/backend_mf0ouo.png",
+      "coursename": "Backend",
+      "category": "Backend",
+      "level": "Intermediate",
+      "description": "Deepen your backend expertise with advanced concepts in APIs, databases, and authentication.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic knowledge of backend development",
+      "targetAudience": "Backend developers seeking advanced skills",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/backend"
+    },
+    {
+      "id": 6,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638443/fullstack_ssr84y.png",
+      "coursename": "Full Stack",
+      "category": "Full Stack",
+      "level": "Advanced",
+      "description": "Master full-stack development with hands-on projects in frontend and backend technologies.",
+      "estimatedTime": "12 weeks",
+      "prerequisites": "Intermediate knowledge of frontend and backend development",
+      "targetAudience": "Developers aiming to become full-stack engineers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/full-stack"
+    },
+    {
+      "id": 7,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638442/api_g256f5.jpg",
+      "coursename": "API Design",
+      "category": "Backend",
+      "level": "Advanced",
+      "description": "Learn to design robust and scalable APIs using REST and GraphQL.",
+      "estimatedTime": "4 weeks",
+      "prerequisites": "Basic understanding of backend development",
+      "targetAudience": "Backend developers and architects",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/api-design"
+    },
+    {
+      "id": 8,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638442/QA_xfphbw.jpg",
+      "coursename": "QA",
+      "category": "Quality Assurance",
+      "level": "Beginner",
+      "description": "Understand the principles of software testing, including manual and automation testing.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic computer knowledge",
+      "targetAudience": "Aspiring QA engineers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/qa"
+    },
+    {
+      "id": 9,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638443/devops_saolcy.jpg",
+      "coursename": "DevOps",
+      "category": "DevOps",
+      "level": "Intermediate",
+      "description": "Advance your DevOps skills with infrastructure automation, monitoring, and containerization.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic knowledge of DevOps",
+      "targetAudience": "Developers and DevOps engineers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/devops"
+    },
+    {
+      "id": 10,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638442/Android_twfgfu.jpg",
+      "coursename": "Android",
+      "category": "Mobile Development",
+      "level": "Beginner",
+      "description": "Learn to build Android applications using Java and Kotlin.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic programming knowledge",
+      "targetAudience": "Aspiring mobile developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "urhttps://roadmap.sh/androidl"
+    },
+    {
+      "id": 11,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638442/Ios_otxvql.jpg",
+      "coursename": "iOS",
+      "category": "Mobile Development",
+      "level": "Beginner",
+      "description": "Learn to develop iOS applications using Swift and Xcode.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic programming knowledge",
+      "targetAudience": "Aspiring iOS developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/ios"
+    },
+    {
+      "id": 12,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638441/postgre_sql_gtngmw.png",
+      "coursename": "PostgreSQL",
+      "category": "Database Management",
+      "level": "Beginner",
+      "description": "Learn PostgreSQL from scratch, including database design, queries, and optimization.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic knowledge of SQL",
+      "targetAudience": "Database enthusiasts and developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/postgresql-dba"
+    },
+    {
+      "id": 13,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638439/soft_arch_titbm3.jpg",
+      "coursename": "Software Architect",
+      "category": "Software Design",
+      "level": "Advanced",
+      "description": "Understand software architecture patterns and best practices for scalable systems.",
+      "estimatedTime": "12 weeks",
+      "prerequisites": "Experience in software development",
+      "targetAudience": "Senior developers and aspiring architects",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/software-architect"
+    },
+    {
+      "id": 14,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/tech_writter_swvtxn.jpg",
+      "coursename": "Technical Writer",
+      "category": "Documentation",
+      "level": "Beginner",
+      "description": "Learn the art of technical writing, including creating documentation and user guides.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Strong communication skills",
+      "targetAudience": "Writers and engineers with an interest in documentation",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/technical-writer"
+    },
+    {
+      "id": 15,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638439/dev_rel_t0uofh.jpg",
+      "coursename": "DevRel Engineer",
+      "category": "Developer Relations",
+      "level": "Intermediate",
+      "description": "Master the skills to engage with developers, create tutorials, and advocate for tools.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Experience in software development",
+      "targetAudience": "Engineers interested in developer advocacy",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/devrel"
+    },
+    {
+      "id": 16,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/Ai_data_o0axrd.jpg",
+      "coursename": "AI and Data Scientist",
+      "category": "Artificial Intelligence",
+      "level": "Advanced",
+      "description": "Learn to analyze data and build AI models using Python, TensorFlow, and PyTorch.",
+      "estimatedTime": "12 weeks",
+      "prerequisites": "Experience in programming and data analysis",
+      "targetAudience": "Aspiring AI and data science professionals",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/ai-data-scientist"
+    },
+    {
+      "id": 17,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/Ai_data_o0axrd.jpg",
+      "coursename": "AI Engineer",
+      "category": "Artificial Intelligence",
+      "level": "Advanced",
+      "description": "Develop and deploy AI systems with hands-on projects and real-world use cases.",
+      "estimatedTime": "10 weeks",
+      "prerequisites": "Intermediate programming skills",
+      "targetAudience": "Developers aiming to specialize in AI engineering",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/ai-engineer"
+    },
+    {
+      "id": 18,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/data_analyst_ygjpdf.jpg",
+      "coursename": "Data Analyst",
+      "category": "Data Analysis",
+      "level": "Beginner",
+      "description": "Learn data analysis techniques and tools, including Excel, SQL, and Tableau.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic computer knowledge",
+      "targetAudience": "Aspiring data analysts",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/data-analyst"
+    },
+    {
+      "id": 19,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/ml_ops_v7mjo5.png",
+      "coursename": "MLOps",
+      "category": "Machine Learning",
+      "level": "Advanced",
+      "description": "Streamline the deployment and monitoring of machine learning models with MLOps.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Experience in machine learning",
+      "targetAudience": "AI professionals and data scientists",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/mlops"
+    },
+    {
+      "id": 20,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/product_r8dcs4.avif",
+      "coursename": "Product Manager",
+      "category": "Product Management",
+      "level": "Intermediate",
+      "description": "Learn product management fundamentals, including roadmapping, MVPs, and agile practices.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic understanding of software projects",
+      "targetAudience": "Aspiring and junior product managers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/product-manager"
+    },
+    {
+      "id": 21,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/enggneer_manager_d3quqq.jpg",
+      "coursename": "Engineering Manager",
+      "category": "Leadership",
+      "level": "Advanced",
+      "description": "Gain leadership skills to manage engineering teams and deliver high-quality software.",
+      "estimatedTime": "10 weeks",
+      "prerequisites": "Experience in software development",
+      "targetAudience": "Engineers aspiring to management roles",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/engineering-manager"
+    },
+    {
+      "id": 22,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/game_dev_axnot3.jpg",
+      "coursename": "Client Side Game Dev",
+      "category": "Game Development",
+      "level": "Beginner",
+      "description": "Learn the basics of client-side game development using Unity and C#.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic programming knowledge",
+      "targetAudience": "Aspiring game developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/game-developer"
+    },
+    {
+      "id": 23,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/game_dev_axnot3.jpg",
+      "coursename": "Server Side Game Dev",
+      "category": "Game Development",
+      "level": "Intermediate",
+      "description": "Develop multiplayer game servers and backend services using Node.js and databases.",
+      "estimatedTime": "10 weeks",
+      "prerequisites": "Basic knowledge of backend development",
+      "targetAudience": "Game developers specializing in server-side logic",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/server-side-game-developer"
+    },
+    {
+      "id": 24,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/ui_ux_e9mo4s.jpg",
+      "coursename": "UX Design",
+      "category": "Design",
+      "level": "Beginner",
+      "description": "Understand user experience design principles, prototyping, and usability testing.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic computer knowledge",
+      "targetAudience": "Aspiring UX designers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/ux-design"
+    },
+    {
+      "id": 25,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/block_chain_eemnco.jpg",
+      "coursename": "Blockchain",
+      "category": "Blockchain Technology",
+      "level": "Intermediate",
+      "description": "Learn the fundamentals of blockchain, smart contracts, and decentralized applications.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic programming knowledge",
+      "targetAudience": "Developers interested in blockchain technology",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/blockchain"
+    },
+    {
+      "id": 26,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/cyber_security_l091jm.jpg",
+      "coursename": "Cyber Security",
+      "category": "Cybersecurity",
+      "level": "Intermediate",
+      "description": "Explore cybersecurity concepts, ethical hacking, and securing networks.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic knowledge of IT systems",
+      "targetAudience": "IT professionals and aspiring cybersecurity experts",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/cyber-security"
+    },
+    {
+      "id": 27,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/graph_Ql_suritd.jpg",
+      "coursename": "GraphQL",
+      "category": "API Development",
+      "level": "Intermediate",
+      "description": "Learn how to create and consume GraphQL APIs for efficient and flexible data querying.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic knowledge of REST APIs and JavaScript",
+      "targetAudience": "Backend and full-stack developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/graphql"
+    },
+    {
+      "id": 28,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514210/16_tdsm5q.jpg",
+      "coursename": "Git and GitHub",
+      "category": "Version Control",
+      "level": "Beginner",
+      "description": "Master version control using Git and GitHub for collaborative and efficient coding.",
+      "estimatedTime": "4 weeks",
+      "prerequisites": "Basic programming knowledge",
+      "targetAudience": "Developers and open-source contributors",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/git-github"
+    },
+    {
+      "id": 29,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/12_duv08z.jpg",
+      "coursename": "React",
+      "category": "Frontend Development",
+      "level": "Intermediate",
+      "description": "Learn to build dynamic and responsive web applications using React.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Knowledge of HTML, CSS, and JavaScript",
+      "targetAudience": "Aspiring and junior frontend developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/react"
+    },
+    {
+      "id": 30,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/vue_bwbh4k.jpg",
+      "coursename": "Vue",
+      "category": "Frontend Development",
+      "level": "Beginner",
+      "description": "Get started with Vue.js to create lightweight and versatile web applications.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic knowledge of HTML, CSS, and JavaScript",
+      "targetAudience": "Frontend developers exploring modern frameworks",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/vue"
+    },
+    {
+      "id": 31,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/17_zowhn1.jpg",
+      "coursename": "Angular",
+      "category": "Frontend Development",
+      "level": "Intermediate",
+      "description": "Learn Angular to build powerful, large-scale web applications with TypeScript.",
+      "estimatedTime": "10 weeks",
+      "prerequisites": "Basic knowledge of HTML, CSS, JavaScript, and TypeScript",
+      "targetAudience": "Developers looking to specialize in enterprise-level frontend development",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/angular"
+    },
+    {
+      "id": 32,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/Spring_boot_jbufke.png",
+      "coursename": "Spring Boot",
+      "category": "Backend Development",
+      "level": "Intermediate",
+      "description": "Build robust and scalable backend services using Spring Boot.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Experience in Java programming",
+      "targetAudience": "Java developers and aspiring backend engineers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/spring-boot"
+    },
+    {
+      "id": 33,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/asp_g9tg8k.jpg",
+      "coursename": "ASP.NET Core",
+      "category": "Backend Development",
+      "level": "Intermediate",
+      "description": "Learn to develop cross-platform web applications with ASP.NET Core.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Knowledge of C# and .NET framework",
+      "targetAudience": "Backend developers and Microsoft stack enthusiasts",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/aspnet-core"
+    },
+    {
+      "id": 34,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/5_ykcgiw.jpg",
+      "coursename": "JavaScript",
+      "category": "Programming",
+      "level": "Beginner",
+      "description": "Master the fundamentals of JavaScript to build interactive web applications.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic understanding of HTML and CSS",
+      "targetAudience": "Aspiring web developers and programmers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/javascript"
+    },
+    {
+      "id": 35,
+      "course-roadmaplogo": "https://wallpapercave.com/wp/wp8882813.png",
+      "coursename": "TypeScript",
+      "category": "Programming",
+      "level": "Intermediate",
+      "description": "Enhance your JavaScript skills by learning TypeScript for scalable and type-safe applications.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic JavaScript knowledge",
+      "targetAudience": "Frontend and backend developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/typescript"
+    },
+    {
+      "id": 36,
+      "course-roadmaplogo": "https://c4.wallpaperflare.com/wallpaper/504/643/616/node-js-javascript-wallpaper-preview.jpg",
+      "coursename": "Node.js",
+      "category": "Backend Development",
+      "level": "Intermediate",
+      "description": "Learn to build fast and scalable server-side applications with Node.js.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic knowledge of JavaScript",
+      "targetAudience": "Backend developers and full-stack engineers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/nodejs"
+    },
+    {
+      "id": 37,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/7_wp23wv.jpg",
+      "coursename": "C++",
+      "category": "Programming",
+      "level": "Beginner to Intermediate",
+      "description": "Master C++ programming concepts, including object-oriented programming, data structures, and algorithms.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic programming knowledge",
+      "targetAudience": "Aspiring software developers and competitive programmers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/cpp"
+    },
+    {
+      "id": 38,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/go_wlg6in.jpg",
+      "coursename": "Go",
+      "category": "Programming",
+      "level": "Beginner to Intermediate",
+      "description": "Learn the Go programming language to build efficient, scalable, and reliable systems.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic programming knowledge",
+      "targetAudience": "Backend developers and cloud enthusiasts",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/golang"
+    },
+    {
+      "id": 39,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/11_yzrsko.jpg",
+      "coursename": "Rust",
+      "category": "Programming",
+      "level": "Intermediate",
+      "description": "Discover the power of Rust for safe, concurrent, and fast systems programming.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Experience with programming languages like C or C++",
+      "targetAudience": "Systems programmers and performance-oriented developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/rust"
+    },
+    {
+      "id": 40,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/3_mnxwoi.jpg",
+      "coursename": "Python",
+      "category": "Programming",
+      "level": "Beginner",
+      "description": "Learn Python for web development, data science, machine learning, and automation.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic computer knowledge",
+      "targetAudience": "Aspiring developers and data scientists",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/python"
+    },
+    {
+      "id": 41,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/4_nin5ar.jpg",
+      "coursename": "Java",
+      "category": "Programming",
+      "level": "Beginner to Intermediate",
+      "description": "Master Java programming for building robust and cross-platform applications.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic programming knowledge",
+      "targetAudience": "Aspiring software developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/java"
+    },
+    {
+      "id": 42,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/18-2_vy4xnj.png",
+      "coursename": "SQL",
+      "category": "Database",
+      "level": "Beginner",
+      "description": "Learn SQL for managing and querying relational databases effectively.",
+      "estimatedTime": "4 weeks",
+      "prerequisites": "Basic computer knowledge",
+      "targetAudience": "Data analysts and backend developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/sql"
+    },
+    {
+      "id": 43,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/Docker_wdh6bm.jpg",
+      "coursename": "Docker",
+      "category": "DevOps",
+      "level": "Intermediate",
+      "description": "Learn Docker to containerize applications and simplify deployment workflows.",
+      "estimatedTime": "4 weeks",
+      "prerequisites": "Basic knowledge of operating systems and command-line tools",
+      "targetAudience": "DevOps engineers and backend developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/docker"
+    },
+    {
+      "id": 44,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/kubernetes-logo_cyvvic.jpg",
+      "coursename": "Kubernetes",
+      "category": "DevOps",
+      "level": "Intermediate",
+      "description": "Master Kubernetes to orchestrate containerized applications at scale.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic knowledge of Docker and cloud platforms",
+      "targetAudience": "DevOps engineers and cloud architects",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/kubernetes"
+    },
+    {
+      "id": 45,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/aws_vpboom.jpg",
+      "coursename": "AWS",
+      "category": "Cloud Computing",
+      "level": "Beginner to Intermediate",
+      "description": "Learn AWS services to build, deploy, and manage cloud applications.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic computer knowledge",
+      "targetAudience": "Cloud enthusiasts and developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/aws"
+    },
+    {
+      "id": 46,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/linux_l0gowh.jpg",
+      "coursename": "Linux",
+      "category": "Operating Systems",
+      "level": "Beginner",
+      "description": "Get started with Linux commands and system administration.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic computer knowledge",
+      "targetAudience": "System administrators and DevOps enthusiasts",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/linux"
+    },
+    {
+      "id": 47,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/no_logo_avilable_zgi43l.jpg",
+      "coursename": "Terraform",
+      "category": "DevOps",
+      "level": "Intermediate",
+      "description": "Learn Terraform to manage infrastructure as code for cloud environments.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic knowledge of cloud platforms",
+      "targetAudience": "Cloud architects and DevOps engineers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/terraform"
+    },
+    {
+      "id": 48,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/React_native_dvgxsm.jpg",
+      "coursename": "React Native",
+      "category": "Mobile Development",
+      "level": "Intermediate",
+      "description": "Build cross-platform mobile apps with React Native.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Knowledge of React and JavaScript",
+      "targetAudience": "Frontend developers and mobile app enthusiasts",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/react-native"
+    },
+    {
+      "id": 49,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/flutter_yhm6lk.jpg",
+      "coursename": "Flutter",
+      "category": "Mobile Development",
+      "level": "Intermediate",
+      "description": "Learn Flutter to build natively compiled mobile, web, and desktop apps.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic programming knowledge",
+      "targetAudience": "Mobile app developers and designers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/flutter"
+    },
+    {
+      "id": 50,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/mango_db_qlkp2i.jpg",
+      "coursename": "MongoDB",
+      "category": "Database",
+      "level": "Beginner to Intermediate",
+      "description": "Learn MongoDB to manage NoSQL databases for scalable and flexible data storage.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic programming and database knowledge",
+      "targetAudience": "Backend developers and data engineers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/mongodb"
+    },
+    {
+      "id": 51,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/redis_cojsny.jpg",
+      "coursename": "Redis",
+      "category": "Database",
+      "level": "Intermediate",
+      "description": "Learn Redis to implement high-performance, in-memory data structures for caching and real-time applications.",
+      "estimatedTime": "4 weeks",
+      "prerequisites": "Basic knowledge of databases and programming",
+      "targetAudience": "Backend developers and system architects",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/redis"
+    },
+    {
+      "id": 52,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/computer_science_b9ogoa.jpg",
+      "coursename": "Computer Science",
+      "category": "Core Concepts",
+      "level": "Beginner to Intermediate",
+      "description": "Explore foundational computer science topics, including algorithms, data structures, and programming principles.",
+      "estimatedTime": "12 weeks",
+      "prerequisites": "Basic computer knowledge",
+      "targetAudience": "Aspiring software engineers and CS students",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/computer-science"
+    },
+    {
+      "id": 53,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/data_stactures_kc5aru.jpg",
+      "coursename": "Data Structures",
+      "category": "Programming",
+      "level": "Intermediate",
+      "description": "Master essential data structures like arrays, linked lists, stacks, queues, trees, and graphs.",
+      "estimatedTime": "8 weeks",
+      "prerequisites": "Basic programming knowledge",
+      "targetAudience": "Aspiring competitive programmers and software developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/datastructures-and-algorithms"
+    },
+    {
+      "id": 54,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638434/systeam_design_ommogp.jpg",
+      "coursename": "System Design",
+      "category": "Software Engineering",
+      "level": "Advanced",
+      "description": "Learn system design principles to architect scalable and reliable software systems.",
+      "estimatedTime": "10 weeks",
+      "prerequisites": "Understanding of software development and distributed systems",
+      "targetAudience": "Experienced developers and software architects",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/system-design"
+    },
+    {
+      "id": 55,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638439/soft_arch_titbm3.jpg",
+      "coursename": "Design and Architecture",
+      "category": "Software Engineering",
+      "level": "Advanced",
+      "description": "Explore software design patterns and architectural styles for building robust applications.",
+      "estimatedTime": "10 weeks",
+      "prerequisites": "Experience in software development",
+      "targetAudience": "Senior developers and system architects",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/software-design-architecture"
+    },
+    {
+      "id": 56,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/no_logo_avilable_zgi43l.jpg",
+      "coursename": "Code Review",
+      "category": "Software Engineering",
+      "level": "Intermediate",
+      "description": "Learn best practices for conducting effective code reviews to improve code quality and team collaboration.",
+      "estimatedTime": "2 weeks",
+      "prerequisites": "Experience in programming and development workflows",
+      "targetAudience": "Developers and team leads",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/code-review"
+    },
+    {
+      "id": 57,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/no_logo_avilable_zgi43l.jpg",
+      "coursename": "Prompt Engineering",
+      "category": "AI and Machine Learning",
+      "level": "Intermediate",
+      "description": "Learn the techniques of prompt engineering to optimize and enhance AI models' responses.",
+      "estimatedTime": "4 weeks",
+      "prerequisites": "Basic understanding of AI and NLP concepts",
+      "targetAudience": "AI researchers and developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/prompt-engineering"
+    },
+    {
+      "id": 58,
+      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/no_logo_avilable_zgi43l.jpg",
+      "coursename": "Design System",
+      "category": "UI/UX Design",
+      "level": "Intermediate",
+      "description": "Learn how to create and maintain a scalable design system for consistent user experiences.",
+      "estimatedTime": "6 weeks",
+      "prerequisites": "Basic knowledge of UI/UX design principles",
+      "targetAudience": "UI/UX designers and front-end developers",
+      "lastUpdated": "2024-11-26",
+      "course-roadmap-link": "https://roadmap.sh/design-system"
+    }
+  ]
 }

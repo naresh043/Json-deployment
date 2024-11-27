@@ -650,7 +650,7 @@
   "roadmapdata": [
     {
       "id": 1,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732640395/front_end_nbnoil.png",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732640395/front_end_nbnoil.png",
       "coursename": "Frontend Beginner",
       "category": "Frontend",
       "level": "Beginner",
@@ -659,11 +659,11 @@
       "prerequisites": "Basic computer knowledge",
       "targetAudience": "Aspiring web developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/frontend?r=frontend-beginner"
+      "courseRoadmapLink": "https://roadmap.sh/frontend?r=frontend-beginner"
     },
     {
       "id": 2,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638444/frontend_h91p8j.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638444/frontend_h91p8j.jpg",
       "coursename": "Backend Beginner",
       "category": "Backend",
       "level": "Beginner",
@@ -672,11 +672,11 @@
       "prerequisites": "Basic programming knowledge",
       "targetAudience": "Aspiring backend developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "uhttps://roadmap.sh/backend?r=backend-beginnerrl"
+      "courseRoadmapLink": "uhttps://roadmap.sh/backend?r=backend-beginnerrl"
     },
     {
       "id": 3,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638443/devops_saolcy.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638443/devops_saolcy.jpg",
       "coursename": "DevOps Beginner",
       "category": "DevOps",
       "level": "Beginner",
@@ -685,11 +685,11 @@
       "prerequisites": "Basic understanding of software development",
       "targetAudience": "Aspiring DevOps engineers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/devops?r=devops-beginner"
+      "courseRoadmapLink": "https://roadmap.sh/devops?r=devops-beginner"
     },
     {
       "id": 4,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732640395/front_end_nbnoil.png",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732640395/front_end_nbnoil.png",
       "coursename": "Frontend",
       "category": "Frontend",
       "level": "Intermediate",
@@ -698,11 +698,11 @@
       "prerequisites": "Basic knowledge of frontend development",
       "targetAudience": "Frontend developers looking to advance their skills",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/frontend"
+      "courseRoadmapLink": "https://roadmap.sh/frontend"
     },
     {
       "id": 5,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638444/backend_mf0ouo.png",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638444/backend_mf0ouo.png",
       "coursename": "Backend",
       "category": "Backend",
       "level": "Intermediate",
@@ -711,11 +711,11 @@
       "prerequisites": "Basic knowledge of backend development",
       "targetAudience": "Backend developers seeking advanced skills",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/backend"
+      "courseRoadmapLink": "https://roadmap.sh/backend"
     },
     {
       "id": 6,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638443/fullstack_ssr84y.png",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638443/fullstack_ssr84y.png",
       "coursename": "Full Stack",
       "category": "Full Stack",
       "level": "Advanced",
@@ -724,11 +724,11 @@
       "prerequisites": "Intermediate knowledge of frontend and backend development",
       "targetAudience": "Developers aiming to become full-stack engineers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/full-stack"
+      "courseRoadmapLink": "https://roadmap.sh/full-stack"
     },
     {
       "id": 7,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638442/api_g256f5.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638442/api_g256f5.jpg",
       "coursename": "API Design",
       "category": "Backend",
       "level": "Advanced",
@@ -737,11 +737,11 @@
       "prerequisites": "Basic understanding of backend development",
       "targetAudience": "Backend developers and architects",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/api-design"
+      "courseRoadmapLink": "https://roadmap.sh/api-design"
     },
     {
       "id": 8,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638442/QA_xfphbw.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638442/QA_xfphbw.jpg",
       "coursename": "QA",
       "category": "Quality Assurance",
       "level": "Beginner",
@@ -750,11 +750,11 @@
       "prerequisites": "Basic computer knowledge",
       "targetAudience": "Aspiring QA engineers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/qa"
+      "courseRoadmapLink": "https://roadmap.sh/qa"
     },
     {
       "id": 9,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638443/devops_saolcy.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638443/devops_saolcy.jpg",
       "coursename": "DevOps",
       "category": "DevOps",
       "level": "Intermediate",
@@ -763,11 +763,11 @@
       "prerequisites": "Basic knowledge of DevOps",
       "targetAudience": "Developers and DevOps engineers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/devops"
+      "courseRoadmapLink": "https://roadmap.sh/devops"
     },
     {
       "id": 10,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638442/Android_twfgfu.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638442/Android_twfgfu.jpg",
       "coursename": "Android",
       "category": "Mobile Development",
       "level": "Beginner",
@@ -776,11 +776,11 @@
       "prerequisites": "Basic programming knowledge",
       "targetAudience": "Aspiring mobile developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "urhttps://roadmap.sh/androidl"
+      "courseRoadmapLink": "urhttps://roadmap.sh/androidl"
     },
     {
       "id": 11,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638442/Ios_otxvql.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638442/Ios_otxvql.jpg",
       "coursename": "iOS",
       "category": "Mobile Development",
       "level": "Beginner",
@@ -789,11 +789,11 @@
       "prerequisites": "Basic programming knowledge",
       "targetAudience": "Aspiring iOS developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/ios"
+      "courseRoadmapLink": "https://roadmap.sh/ios"
     },
     {
       "id": 12,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638441/postgre_sql_gtngmw.png",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638441/postgre_sql_gtngmw.png",
       "coursename": "PostgreSQL",
       "category": "Database Management",
       "level": "Beginner",
@@ -802,11 +802,11 @@
       "prerequisites": "Basic knowledge of SQL",
       "targetAudience": "Database enthusiasts and developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/postgresql-dba"
+      "courseRoadmapLink": "https://roadmap.sh/postgresql-dba"
     },
     {
       "id": 13,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638439/soft_arch_titbm3.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638439/soft_arch_titbm3.jpg",
       "coursename": "Software Architect",
       "category": "Software Design",
       "level": "Advanced",
@@ -815,11 +815,11 @@
       "prerequisites": "Experience in software development",
       "targetAudience": "Senior developers and aspiring architects",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/software-architect"
+      "courseRoadmapLink": "https://roadmap.sh/software-architect"
     },
     {
       "id": 14,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/tech_writter_swvtxn.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/tech_writter_swvtxn.jpg",
       "coursename": "Technical Writer",
       "category": "Documentation",
       "level": "Beginner",
@@ -828,11 +828,11 @@
       "prerequisites": "Strong communication skills",
       "targetAudience": "Writers and engineers with an interest in documentation",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/technical-writer"
+      "courseRoadmapLink": "https://roadmap.sh/technical-writer"
     },
     {
       "id": 15,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638439/dev_rel_t0uofh.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638439/dev_rel_t0uofh.jpg",
       "coursename": "DevRel Engineer",
       "category": "Developer Relations",
       "level": "Intermediate",
@@ -841,11 +841,11 @@
       "prerequisites": "Experience in software development",
       "targetAudience": "Engineers interested in developer advocacy",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/devrel"
+      "courseRoadmapLink": "https://roadmap.sh/devrel"
     },
     {
       "id": 16,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/Ai_data_o0axrd.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/Ai_data_o0axrd.jpg",
       "coursename": "AI and Data Scientist",
       "category": "Artificial Intelligence",
       "level": "Advanced",
@@ -854,11 +854,11 @@
       "prerequisites": "Experience in programming and data analysis",
       "targetAudience": "Aspiring AI and data science professionals",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/ai-data-scientist"
+      "courseRoadmapLink": "https://roadmap.sh/ai-data-scientist"
     },
     {
       "id": 17,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/Ai_data_o0axrd.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/Ai_data_o0axrd.jpg",
       "coursename": "AI Engineer",
       "category": "Artificial Intelligence",
       "level": "Advanced",
@@ -867,11 +867,11 @@
       "prerequisites": "Intermediate programming skills",
       "targetAudience": "Developers aiming to specialize in AI engineering",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/ai-engineer"
+      "courseRoadmapLink": "https://roadmap.sh/ai-engineer"
     },
     {
       "id": 18,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/data_analyst_ygjpdf.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/data_analyst_ygjpdf.jpg",
       "coursename": "Data Analyst",
       "category": "Data Analysis",
       "level": "Beginner",
@@ -880,11 +880,11 @@
       "prerequisites": "Basic computer knowledge",
       "targetAudience": "Aspiring data analysts",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/data-analyst"
+      "courseRoadmapLink": "https://roadmap.sh/data-analyst"
     },
     {
       "id": 19,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/ml_ops_v7mjo5.png",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/ml_ops_v7mjo5.png",
       "coursename": "MLOps",
       "category": "Machine Learning",
       "level": "Advanced",
@@ -893,11 +893,11 @@
       "prerequisites": "Experience in machine learning",
       "targetAudience": "AI professionals and data scientists",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/mlops"
+      "courseRoadmapLink": "https://roadmap.sh/mlops"
     },
     {
       "id": 20,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/product_r8dcs4.avif",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/product_r8dcs4.avif",
       "coursename": "Product Manager",
       "category": "Product Management",
       "level": "Intermediate",
@@ -906,11 +906,11 @@
       "prerequisites": "Basic understanding of software projects",
       "targetAudience": "Aspiring and junior product managers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/product-manager"
+      "courseRoadmapLink": "https://roadmap.sh/product-manager"
     },
     {
       "id": 21,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/enggneer_manager_d3quqq.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/enggneer_manager_d3quqq.jpg",
       "coursename": "Engineering Manager",
       "category": "Leadership",
       "level": "Advanced",
@@ -919,11 +919,11 @@
       "prerequisites": "Experience in software development",
       "targetAudience": "Engineers aspiring to management roles",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/engineering-manager"
+      "courseRoadmapLink": "https://roadmap.sh/engineering-manager"
     },
     {
       "id": 22,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/game_dev_axnot3.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/game_dev_axnot3.jpg",
       "coursename": "Client Side Game Dev",
       "category": "Game Development",
       "level": "Beginner",
@@ -932,11 +932,11 @@
       "prerequisites": "Basic programming knowledge",
       "targetAudience": "Aspiring game developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/game-developer"
+      "courseRoadmapLink": "https://roadmap.sh/game-developer"
     },
     {
       "id": 23,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/game_dev_axnot3.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/game_dev_axnot3.jpg",
       "coursename": "Server Side Game Dev",
       "category": "Game Development",
       "level": "Intermediate",
@@ -945,11 +945,11 @@
       "prerequisites": "Basic knowledge of backend development",
       "targetAudience": "Game developers specializing in server-side logic",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/server-side-game-developer"
+      "courseRoadmapLink": "https://roadmap.sh/server-side-game-developer"
     },
     {
       "id": 24,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/ui_ux_e9mo4s.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/ui_ux_e9mo4s.jpg",
       "coursename": "UX Design",
       "category": "Design",
       "level": "Beginner",
@@ -958,11 +958,11 @@
       "prerequisites": "Basic computer knowledge",
       "targetAudience": "Aspiring UX designers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/ux-design"
+      "courseRoadmapLink": "https://roadmap.sh/ux-design"
     },
     {
       "id": 25,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/block_chain_eemnco.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638438/block_chain_eemnco.jpg",
       "coursename": "Blockchain",
       "category": "Blockchain Technology",
       "level": "Intermediate",
@@ -971,11 +971,11 @@
       "prerequisites": "Basic programming knowledge",
       "targetAudience": "Developers interested in blockchain technology",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/blockchain"
+      "courseRoadmapLink": "https://roadmap.sh/blockchain"
     },
     {
       "id": 26,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/cyber_security_l091jm.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/cyber_security_l091jm.jpg",
       "coursename": "Cyber Security",
       "category": "Cybersecurity",
       "level": "Intermediate",
@@ -984,11 +984,11 @@
       "prerequisites": "Basic knowledge of IT systems",
       "targetAudience": "IT professionals and aspiring cybersecurity experts",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/cyber-security"
+      "courseRoadmapLink": "https://roadmap.sh/cyber-security"
     },
     {
       "id": 27,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/graph_Ql_suritd.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/graph_Ql_suritd.jpg",
       "coursename": "GraphQL",
       "category": "API Development",
       "level": "Intermediate",
@@ -997,11 +997,11 @@
       "prerequisites": "Basic knowledge of REST APIs and JavaScript",
       "targetAudience": "Backend and full-stack developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/graphql"
+      "courseRoadmapLink": "https://roadmap.sh/graphql"
     },
     {
       "id": 28,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514210/16_tdsm5q.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514210/16_tdsm5q.jpg",
       "coursename": "Git and GitHub",
       "category": "Version Control",
       "level": "Beginner",
@@ -1010,11 +1010,11 @@
       "prerequisites": "Basic programming knowledge",
       "targetAudience": "Developers and open-source contributors",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/git-github"
+      "courseRoadmapLink": "https://roadmap.sh/git-github"
     },
     {
       "id": 29,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/12_duv08z.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/12_duv08z.jpg",
       "coursename": "React",
       "category": "Frontend Development",
       "level": "Intermediate",
@@ -1023,11 +1023,11 @@
       "prerequisites": "Knowledge of HTML, CSS, and JavaScript",
       "targetAudience": "Aspiring and junior frontend developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/react"
+      "courseRoadmapLink": "https://roadmap.sh/react"
     },
     {
       "id": 30,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/vue_bwbh4k.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/vue_bwbh4k.jpg",
       "coursename": "Vue",
       "category": "Frontend Development",
       "level": "Beginner",
@@ -1036,11 +1036,11 @@
       "prerequisites": "Basic knowledge of HTML, CSS, and JavaScript",
       "targetAudience": "Frontend developers exploring modern frameworks",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/vue"
+      "courseRoadmapLink": "https://roadmap.sh/vue"
     },
     {
       "id": 31,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/17_zowhn1.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/17_zowhn1.jpg",
       "coursename": "Angular",
       "category": "Frontend Development",
       "level": "Intermediate",
@@ -1049,11 +1049,11 @@
       "prerequisites": "Basic knowledge of HTML, CSS, JavaScript, and TypeScript",
       "targetAudience": "Developers looking to specialize in enterprise-level frontend development",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/angular"
+      "courseRoadmapLink": "https://roadmap.sh/angular"
     },
     {
       "id": 32,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/Spring_boot_jbufke.png",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/Spring_boot_jbufke.png",
       "coursename": "Spring Boot",
       "category": "Backend Development",
       "level": "Intermediate",
@@ -1062,11 +1062,11 @@
       "prerequisites": "Experience in Java programming",
       "targetAudience": "Java developers and aspiring backend engineers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/spring-boot"
+      "courseRoadmapLink": "https://roadmap.sh/spring-boot"
     },
     {
       "id": 33,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/asp_g9tg8k.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/asp_g9tg8k.jpg",
       "coursename": "ASP.NET Core",
       "category": "Backend Development",
       "level": "Intermediate",
@@ -1075,11 +1075,11 @@
       "prerequisites": "Knowledge of C# and .NET framework",
       "targetAudience": "Backend developers and Microsoft stack enthusiasts",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/aspnet-core"
+      "courseRoadmapLink": "https://roadmap.sh/aspnet-core"
     },
     {
       "id": 34,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/5_ykcgiw.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/5_ykcgiw.jpg",
       "coursename": "JavaScript",
       "category": "Programming",
       "level": "Beginner",
@@ -1088,11 +1088,11 @@
       "prerequisites": "Basic understanding of HTML and CSS",
       "targetAudience": "Aspiring web developers and programmers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/javascript"
+      "courseRoadmapLink": "https://roadmap.sh/javascript"
     },
     {
       "id": 35,
-      "course-roadmaplogo": "https://wallpapercave.com/wp/wp8882813.png",
+      "courseRoadmapLogo": "https://wallpapercave.com/wp/wp8882813.png",
       "coursename": "TypeScript",
       "category": "Programming",
       "level": "Intermediate",
@@ -1101,11 +1101,11 @@
       "prerequisites": "Basic JavaScript knowledge",
       "targetAudience": "Frontend and backend developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/typescript"
+      "courseRoadmapLink": "https://roadmap.sh/typescript"
     },
     {
       "id": 36,
-      "course-roadmaplogo": "https://c4.wallpaperflare.com/wallpaper/504/643/616/node-js-javascript-wallpaper-preview.jpg",
+      "courseRoadmapLogo": "https://c4.wallpaperflare.com/wallpaper/504/643/616/node-js-javascript-wallpaper-preview.jpg",
       "coursename": "Node.js",
       "category": "Backend Development",
       "level": "Intermediate",
@@ -1114,11 +1114,11 @@
       "prerequisites": "Basic knowledge of JavaScript",
       "targetAudience": "Backend developers and full-stack engineers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/nodejs"
+      "courseRoadmapLink": "https://roadmap.sh/nodejs"
     },
     {
       "id": 37,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/7_wp23wv.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503439/7_wp23wv.jpg",
       "coursename": "C++",
       "category": "Programming",
       "level": "Beginner to Intermediate",
@@ -1127,11 +1127,11 @@
       "prerequisites": "Basic programming knowledge",
       "targetAudience": "Aspiring software developers and competitive programmers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/cpp"
+      "courseRoadmapLink": "https://roadmap.sh/cpp"
     },
     {
       "id": 38,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/go_wlg6in.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638437/go_wlg6in.jpg",
       "coursename": "Go",
       "category": "Programming",
       "level": "Beginner to Intermediate",
@@ -1140,11 +1140,11 @@
       "prerequisites": "Basic programming knowledge",
       "targetAudience": "Backend developers and cloud enthusiasts",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/golang"
+      "courseRoadmapLink": "https://roadmap.sh/golang"
     },
     {
       "id": 39,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/11_yzrsko.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/11_yzrsko.jpg",
       "coursename": "Rust",
       "category": "Programming",
       "level": "Intermediate",
@@ -1153,11 +1153,11 @@
       "prerequisites": "Experience with programming languages like C or C++",
       "targetAudience": "Systems programmers and performance-oriented developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/rust"
+      "courseRoadmapLink": "https://roadmap.sh/rust"
     },
     {
       "id": 40,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/3_mnxwoi.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/3_mnxwoi.jpg",
       "coursename": "Python",
       "category": "Programming",
       "level": "Beginner",
@@ -1166,11 +1166,11 @@
       "prerequisites": "Basic computer knowledge",
       "targetAudience": "Aspiring developers and data scientists",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/python"
+      "courseRoadmapLink": "https://roadmap.sh/python"
     },
     {
       "id": 41,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/4_nin5ar.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503440/4_nin5ar.jpg",
       "coursename": "Java",
       "category": "Programming",
       "level": "Beginner to Intermediate",
@@ -1179,11 +1179,11 @@
       "prerequisites": "Basic programming knowledge",
       "targetAudience": "Aspiring software developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/java"
+      "courseRoadmapLink": "https://roadmap.sh/java"
     },
     {
       "id": 42,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/18-2_vy4xnj.png",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732503438/18-2_vy4xnj.png",
       "coursename": "SQL",
       "category": "Database",
       "level": "Beginner",
@@ -1192,11 +1192,11 @@
       "prerequisites": "Basic computer knowledge",
       "targetAudience": "Data analysts and backend developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/sql"
+      "courseRoadmapLink": "https://roadmap.sh/sql"
     },
     {
       "id": 43,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/Docker_wdh6bm.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/Docker_wdh6bm.jpg",
       "coursename": "Docker",
       "category": "DevOps",
       "level": "Intermediate",
@@ -1205,11 +1205,11 @@
       "prerequisites": "Basic knowledge of operating systems and command-line tools",
       "targetAudience": "DevOps engineers and backend developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/docker"
+      "courseRoadmapLink": "https://roadmap.sh/docker"
     },
     {
       "id": 44,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/kubernetes-logo_cyvvic.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/kubernetes-logo_cyvvic.jpg",
       "coursename": "Kubernetes",
       "category": "DevOps",
       "level": "Intermediate",
@@ -1218,11 +1218,11 @@
       "prerequisites": "Basic knowledge of Docker and cloud platforms",
       "targetAudience": "DevOps engineers and cloud architects",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/kubernetes"
+      "courseRoadmapLink": "https://roadmap.sh/kubernetes"
     },
     {
       "id": 45,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/aws_vpboom.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/aws_vpboom.jpg",
       "coursename": "AWS",
       "category": "Cloud Computing",
       "level": "Beginner to Intermediate",
@@ -1231,11 +1231,11 @@
       "prerequisites": "Basic computer knowledge",
       "targetAudience": "Cloud enthusiasts and developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/aws"
+      "courseRoadmapLink": "https://roadmap.sh/aws"
     },
     {
       "id": 46,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/linux_l0gowh.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/linux_l0gowh.jpg",
       "coursename": "Linux",
       "category": "Operating Systems",
       "level": "Beginner",
@@ -1244,11 +1244,11 @@
       "prerequisites": "Basic computer knowledge",
       "targetAudience": "System administrators and DevOps enthusiasts",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/linux"
+      "courseRoadmapLink": "https://roadmap.sh/linux"
     },
     {
       "id": 47,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/no_logo_avilable_zgi43l.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/no_logo_avilable_zgi43l.jpg",
       "coursename": "Terraform",
       "category": "DevOps",
       "level": "Intermediate",
@@ -1257,11 +1257,11 @@
       "prerequisites": "Basic knowledge of cloud platforms",
       "targetAudience": "Cloud architects and DevOps engineers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/terraform"
+      "courseRoadmapLink": "https://roadmap.sh/terraform"
     },
     {
       "id": 48,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/React_native_dvgxsm.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/React_native_dvgxsm.jpg",
       "coursename": "React Native",
       "category": "Mobile Development",
       "level": "Intermediate",
@@ -1270,11 +1270,11 @@
       "prerequisites": "Knowledge of React and JavaScript",
       "targetAudience": "Frontend developers and mobile app enthusiasts",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/react-native"
+      "courseRoadmapLink": "https://roadmap.sh/react-native"
     },
     {
       "id": 49,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/flutter_yhm6lk.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/flutter_yhm6lk.jpg",
       "coursename": "Flutter",
       "category": "Mobile Development",
       "level": "Intermediate",
@@ -1283,11 +1283,11 @@
       "prerequisites": "Basic programming knowledge",
       "targetAudience": "Mobile app developers and designers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/flutter"
+      "courseRoadmapLink": "https://roadmap.sh/flutter"
     },
     {
       "id": 50,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/mango_db_qlkp2i.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/mango_db_qlkp2i.jpg",
       "coursename": "MongoDB",
       "category": "Database",
       "level": "Beginner to Intermediate",
@@ -1296,11 +1296,11 @@
       "prerequisites": "Basic programming and database knowledge",
       "targetAudience": "Backend developers and data engineers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/mongodb"
+      "courseRoadmapLink": "https://roadmap.sh/mongodb"
     },
     {
       "id": 51,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/redis_cojsny.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/redis_cojsny.jpg",
       "coursename": "Redis",
       "category": "Database",
       "level": "Intermediate",
@@ -1309,11 +1309,11 @@
       "prerequisites": "Basic knowledge of databases and programming",
       "targetAudience": "Backend developers and system architects",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/redis"
+      "courseRoadmapLink": "https://roadmap.sh/redis"
     },
     {
       "id": 52,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/computer_science_b9ogoa.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638436/computer_science_b9ogoa.jpg",
       "coursename": "Computer Science",
       "category": "Core Concepts",
       "level": "Beginner to Intermediate",
@@ -1322,11 +1322,11 @@
       "prerequisites": "Basic computer knowledge",
       "targetAudience": "Aspiring software engineers and CS students",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/computer-science"
+      "courseRoadmapLink": "https://roadmap.sh/computer-science"
     },
     {
       "id": 53,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/data_stactures_kc5aru.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/data_stactures_kc5aru.jpg",
       "coursename": "Data Structures",
       "category": "Programming",
       "level": "Intermediate",
@@ -1335,11 +1335,11 @@
       "prerequisites": "Basic programming knowledge",
       "targetAudience": "Aspiring competitive programmers and software developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/datastructures-and-algorithms"
+      "courseRoadmapLink": "https://roadmap.sh/datastructures-and-algorithms"
     },
     {
       "id": 54,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638434/systeam_design_ommogp.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638434/systeam_design_ommogp.jpg",
       "coursename": "System Design",
       "category": "Software Engineering",
       "level": "Advanced",
@@ -1348,11 +1348,11 @@
       "prerequisites": "Understanding of software development and distributed systems",
       "targetAudience": "Experienced developers and software architects",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/system-design"
+      "courseRoadmapLink": "https://roadmap.sh/system-design"
     },
     {
       "id": 55,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638439/soft_arch_titbm3.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638439/soft_arch_titbm3.jpg",
       "coursename": "Design and Architecture",
       "category": "Software Engineering",
       "level": "Advanced",
@@ -1361,11 +1361,11 @@
       "prerequisites": "Experience in software development",
       "targetAudience": "Senior developers and system architects",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/software-design-architecture"
+      "courseRoadmapLink": "https://roadmap.sh/software-design-architecture"
     },
     {
       "id": 56,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/no_logo_avilable_zgi43l.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/no_logo_avilable_zgi43l.jpg",
       "coursename": "Code Review",
       "category": "Software Engineering",
       "level": "Intermediate",
@@ -1374,11 +1374,11 @@
       "prerequisites": "Experience in programming and development workflows",
       "targetAudience": "Developers and team leads",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/code-review"
+      "courseRoadmapLink": "https://roadmap.sh/code-review"
     },
     {
       "id": 57,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/no_logo_avilable_zgi43l.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/no_logo_avilable_zgi43l.jpg",
       "coursename": "Prompt Engineering",
       "category": "AI and Machine Learning",
       "level": "Intermediate",
@@ -1387,11 +1387,11 @@
       "prerequisites": "Basic understanding of AI and NLP concepts",
       "targetAudience": "AI researchers and developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/prompt-engineering"
+      "courseRoadmapLink": "https://roadmap.sh/prompt-engineering"
     },
     {
       "id": 58,
-      "course-roadmaplogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/no_logo_avilable_zgi43l.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638435/no_logo_avilable_zgi43l.jpg",
       "coursename": "Design System",
       "category": "UI/UX Design",
       "level": "Intermediate",
@@ -1400,7 +1400,7 @@
       "prerequisites": "Basic knowledge of UI/UX design principles",
       "targetAudience": "UI/UX designers and front-end developers",
       "lastUpdated": "2024-11-26",
-      "course-roadmap-link": "https://roadmap.sh/design-system"
+      "courseRoadmapLink": "https://roadmap.sh/design-system"
     }
   ]
 }

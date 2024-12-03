@@ -98,7 +98,7 @@
     {
       "id": 8,
       "name": "Olivia Harris",
-      "image": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732430714/5_vfyduv.avif",
+      "image": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1733218834/12._onyuck.jpg",
       "courseName": "Java",
       "feedback": "The Java course was detailed, with plenty of hands-on coding examples. However, the pace was a bit slow for experienced learners.",
       "rating": "4.6/5",
@@ -601,7 +601,7 @@
     {
       "id": 22,
       "courseName": "TypeScript",
-      "courseLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732514209/ts_yvdvj9.png",
+      "courseLogo": "https://wallpapercave.com/wp/wp8882813.png",
       "category": "Programming",
       "duration": "4 weeks",
       "keyTakeaways": [
@@ -663,7 +663,7 @@
     },
     {
       "id": 2,
-      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638444/frontend_h91p8j.jpg",
+      "courseRoadmapLogo": "https://res.cloudinary.com/dv5tozhs3/image/upload/v1732638444/backend_mf0ouo.png",
       "coursename": "Backend Beginner",
       "category": "Backend",
       "level": "Beginner",
